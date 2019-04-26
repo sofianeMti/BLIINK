@@ -1,0 +1,17 @@
+.div1{
+    height: 50vh;
+    transition: transform .4s;
+    font-family: 'Nunito', sans-serif;
+    display: table;
+
+}
+.div1:hover{
+    transform: scale(0.98);
+    opacity: 0.93;
+}
+
+.titre1{
+    display:table-cell;
+    vertical-align: middle;
+    color: white;
+}

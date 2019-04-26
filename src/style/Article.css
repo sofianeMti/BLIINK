@@ -1,0 +1,27 @@
+.titreArticle{
+    color: #fff;
+    text-align: center;
+}
+.txt{
+    color: #F8C508;
+}
+.txt1{
+    color: #1686CB;
+    width: 15vw;
+    text-align: center;
+}
+.edit{
+    margin-top: 10vh;
+}
+.but{
+    position: absolute; /* postulat de départ */
+    left:47%; /* à 50%/50% du parent référent */
+    width:5em;
+}
+.alerts{
+    position: relative;
+    background-color: #F8C508;
+    border: #F8C508;
+    top: 20vh;
+    left: 29vw;
+}
